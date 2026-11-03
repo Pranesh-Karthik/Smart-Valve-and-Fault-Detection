@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [{
+    "name": "Run complete valve demo",
+    "type": "debugpy",
+    "request": "launch",
+    "program": "${workspaceFolder}/demo.py",
+    "console": "integratedTerminal",
+    "cwd": "${workspaceFolder}"
+  }]
+}

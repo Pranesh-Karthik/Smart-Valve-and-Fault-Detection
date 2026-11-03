@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+firmware/esp32_valve_sensor/secrets.h
+data/measured*.csv
+results/predictions.csv
